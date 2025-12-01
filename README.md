@@ -5,7 +5,8 @@ To simulate an Astable Multivibrator using IC 555 timer and verify the output.
 PC with LT Spice Software
 ## Circuit Diagram:
 
-<img width="1280" height="654" alt="image" src="https://github.com/user-attachments/assets/b30db965-5025-4440-be3a-a46d9b37f277" />
+<img width="1280" height="797" alt="image" src="https://github.com/user-attachments/assets/c1f7a51e-8598-4d09-b6d1-0295902688d3" />
+
 
 ## Simulation Procedure:
 1.	Open the Ltspice software
@@ -42,9 +43,10 @@ PC with LT Spice Software
 
 
 ## Output:
-<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/d05885bd-54e5-4d7f-b8e5-60bfdb461171" />
-![Uploading image.png…]()
+<img width="1280" height="654" alt="image" src="https://github.com/user-attachments/assets/ce40627c-6f65-4559-b344-d66fe6c445e4" />
+<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/69b9b161-5c4d-4ea1-809e-e2211c8e8d4e" />
 
 ## Result:
 
-![Uploading image.png…]()
+<img width="1280" height="802" alt="image" src="https://github.com/user-attachments/assets/c2fa6f35-6dd8-4d83-82d8-9adb517cd898" />
+
